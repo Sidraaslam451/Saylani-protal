@@ -1,1 +1,6 @@
-@import "tailwindcss";
+@theme {
+  /* aapki custom themes yahan aayengi */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
